@@ -1,10 +1,10 @@
 {
-  "username": "ahmedshahinx0x@gmail.com",
+  "username": "rafaibrahim1211@gmail.com",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE5OSwidGVhbUlkIjoxNCwiaXNBcGlLZXkiOnRydWUsImlhdCI6MTcxMDk1NjMxMn0.oD_UF_eKBXYLuR9tB6NoW5MFrIsqwnjnj_VE49uaoU4",
+    "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjMzMCwidGVhbUlkIjoyOTQsImlzQXBpS2V5Ijp0cnVlLCJpYXQiOjE3MTMyNTQ0NTF9.GBSDl-Sxs1bDBow1KpYsOY-MvK15EG5CX1ZvR8mzW0Q",
     "User-Agent": "Crave"
   },
   "projects": [],
-  "server": "https://foss.crave.io/api"
+  "server": "https://devspace.crave.io/api"
 }
